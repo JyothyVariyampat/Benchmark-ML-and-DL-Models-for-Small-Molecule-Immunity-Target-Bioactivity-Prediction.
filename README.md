@@ -17,6 +17,13 @@ The models were trained to predict and classify the bioactivity of molecules aga
 
   The influence of dataset chemical space diversity was further assessed by analysing t-distributed Stochastic Neighbor Embedding (t-SNE) projections. To optimize predictive performance, Ensemble Learning techniques incorporating Logical AND, Logical OR, and Majority Voting approaches are used to refine the precision-recall trade-off for early-stage screening applications. To enhance transparency, a Concept Whitening regularizer is integrated into the GCN model, aligning learned features with known molecular descriptors.
 
+## 💻 Environment
+
+This project was developed and tested in the following environment:
+
+- Python 3.10
+- Google Colab 
+
   
 ## Dataset
 
